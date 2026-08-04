@@ -1,0 +1,9 @@
+# Claude Code session/local files - never commit
+.claude/
+CLAUDE.local.md
+
+# StatiCrypt salt config dropped by the CLI - keep out of the repo
+.staticrypt.json
+
+# OS noise
+.DS_Store
